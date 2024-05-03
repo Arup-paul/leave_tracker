@@ -42,6 +42,8 @@
   MAIL_FROM_NAME="${APP_NAME}"`
 `
 
+
+
 - NPM install `npm install`
 - NPM run dev `npm run dev`
 
@@ -49,8 +51,14 @@
 -   Run Migrations with seed `php artisan migrate --seed`
 -   Start the Development Server `php artisan serve`
 
- 
 
+## Admin Credentials
+- Email: admin@example.com
+- Password: password
+ 
+## User Credentials
+- Email: user@example.com
+- Password: password
 
 
 
